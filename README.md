@@ -48,6 +48,8 @@ Request](https://drive.google.com/uc?export=view&id=1uU5qLDy6GXbEjedySqx6AJCxw9R
 
   |Name                      | Version        | Description                                                                                                                |
   |:------------------------:|:--------------:|:--------------------------------------------------------------------------------------------------------------------------:|
+  |node                      |                |It's used for back-end API services,                                                                 |
+  |npm                       |                |It is the package manager for the Node JavaScript platform.                                                                |
   |solc                      | 0.4.26         |Programming language to write smart contracts                                                                               |    
   |ganache-cli               |  6.5.1         |  Local Ethereum Test Network                                                                                               |
   |mocha                     |  6.2.0         |  JavaScript test framework                                                                                                 |
